@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(34, 41, 39);
+  border: rgb(71, 40, 11) solid;
+}
+
+.cube {
+  background-color: red;
+  width: 160px;
+  height: 160px;
+  border: white solid 3px;
+  border-radius: 3px;
+}
